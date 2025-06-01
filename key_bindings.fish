@@ -1,1 +1,1 @@
-bind \eH '__tldr'
+bind \e\b '__tldr'
