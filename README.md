@@ -1,14 +1,14 @@
 # tldr
 
 Integrates TLDR man pages with fish using keybindings. This is mainly a fork of the `__fish_man_page` function.
-The default key binding is <kbd>⌥+H</kbd>/<kbd>Alt+H</kbd> (note that it's an uppercase H to avoid conflicts with the original fish man page keybinding).
+The default key binding is <kbd>⌥+⇧+H</kbd>/<kbd>Alt+Shift+H</kbd>.
 
 ## Install
 
 With [fisherman]
 
 ```
-fisher alin23/tldr
+fisher install alin23/tldr
 ```
 
 ## Usage
